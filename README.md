@@ -8,7 +8,8 @@ The project involves web scraping, data preprocessing, EDA and implementing a li
 # Dataset : 
 
 Dataset is webscraped from Practo Website 
-    ![image](https://user-images.githubusercontent.com/118593542/204070037-0e2f6007-8463-49b0-a2a5-84631b4e876f.png)
+
+   ![image](https://user-images.githubusercontent.com/118593542/204070214-52a2ea2b-9ef4-43b9-93c3-4a9128bf751a.png)
 
 # Deployed Website  
 [Click Here](https://doctor-fee-predictor.herokuapp.com/)
