@@ -16,4 +16,11 @@ Dataset is webscraped from Practo Website
 
 ![image](https://user-images.githubusercontent.com/118593542/204070157-43e1bd10-d52a-47c7-9439-9c99c574db58.png)
 
-
+# Contributors:
+   Harish.
+   
+   Vishal.
+   
+   Sujit.
+   
+   Thamizharasi.
